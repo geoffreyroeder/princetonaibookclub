@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to the Princeton AI Book Club Home Page!
 
-You can use the [editor on GitHub](https://github.com/geoffreyroeder/princetonaibookclub/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Note: this website is under construction! Check back soon for more information including meeting times and reading list.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### _Who are we?_
 
-### Markdown
+The Princeton AI Book Club is a group of faculty, postdocs, and grad students at Princeton who meet regularly throughout the year to discuss books and review papers about AI and its potential application areas. The book club's goal is to foster a safe and exciting AI learning environment at Princeton, build community, and spark fruitful collaborations. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Princeton AI Book Club is co-organized by Asst. Professor [Link Adji Bousso Dieng](https://adjidieng.github.io/) Adji Bousso Dieng and PhD student [Link Geoffrey Roeder](https://www.cs.princeton.edu/~groeder/)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### _Club Vision and Goals_
 
-- Bulleted
-- List
+Our goal is to foster an exciting and inclusive community around AI research at Princeton. But, there can be no community without commitment and participation. We require each member to commit to attending every session with the exception of medical reasons, family reasons, or university requirements.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### _What are the club activities?_
 
-[Link](url) and ![Image](src)
-```
+Each week, the club meets for 2 hours to discuss a book or review article on AI or its application areas. The discussion will be led by a member of the club, and another member will record the minutes: topics discussed, ideas proposed. Lunch/snacks will be provided.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### _Membership rules_
 
-### Jekyll Themes
+We expect each member to abide by the following membership rules:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geoffreyroeder/princetonaibookclub/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Show respect and kindness towards others
+2. Attend each week
+3. Complete the required readings each week
+4. Fill the role of scribe at least once per year
+5. Fill the role of meeting leader at least once per year
